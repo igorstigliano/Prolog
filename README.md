@@ -1,3 +1,3 @@
 # Prolog
-Projeto em Prolog que simula um jogo da velha simples.
-Para começar o jogo digite: inicar. Depois siga a intrução.
+Códigos para um interpretar simular um jogo da velha simplescontra uma Máquina. Para começar digite: iniciar.
+
